@@ -1,4 +1,4 @@
-// # Créer une fonctions qui retourne a somme de 2 nombres
+// # Créer une fonctions qui retourne la somme de 2 nombres
 // Runtime O(1)
 function calculSomme(nombre1, nombre2) {
     if (typeof nombre1 !== "number" || typeof nombre2 !== "number") {

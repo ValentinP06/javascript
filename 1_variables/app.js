@@ -14,7 +14,7 @@
 
 // # exo
 // #Déclarer 2 variables,
-// #Déclarer une varaible qui est égal à la somme des 2 variables
+// #Déclarer une variable qui est égal à la somme des 2 variables
 // #Afficher un message d’alerte  « Bienvenue sur la page de formulaire »
 // #La console du navigateur affiche le contenu des variables.
 // #L’alert  affiche « Le résultat est » + le résultat du calcul.
